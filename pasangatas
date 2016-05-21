@@ -1,0 +1,19 @@
+.toc2-outer { font:normal 12px/14px Arial,Sans-Serif; text-align:left; margin:0 auto; padding:10px; border:1px solid #ddd; }
+#toc-outer { url(http://4.bp.blogspot.com/-zApGulnetvk/VRT1zO0ulGI/AAAAAAAAELo/RX2h_Fl2B1o/s1600/loading-seocips.gif) no-repeat 10%; font:normal 11px/14px Arial,Sans-Serif; height:auto; margin:0 auto; overflow:hidden; text-align:left; padding:10px;  border:1px solid #ddd;  }
+#loadingscript { background: url(http://3.bp.blogspot.com/-Z0w4M80kNoE/Tz4_RrLC4fI/AAAAAAAACJY/2mQ2yk5hCdU/s1600/loading.gif) no-repeat 50% 45%; font-weight:bold; font-size:20px; height:345px; padding:30px 0; text-align:center; text-indent:-99999px; }
+.itemposts {  float:right; height:130px; margin:0 0 10px 5px; overflow:hidden; position:relative; padding:3%; width:43%; }
+.itemposts h6 { border-bottom:1px solid #ddd; font:bold 11px/16px Sans-Serif; height:15px; margin:0 0 5px; overflow:hidden; padding:2px 6px !important; text-transform:none; }
+.itemposts h6 a:hover { text-decoration:none; }
+.itemposts img { border:1px solid #ddd; float:left; height:75px; margin:0 7px 5px 0; padding:3px; width:75px; z-indent:99999px; }
+.itemposts .iteminside {}
+.itemposts .itemfoot { border-top:1px solid #ddd; padding:3px; clear:both; overflow:hidden; }
+.itemposts .itemfoot a.itemrmore { float:right; font-weight:bold; text-decoration:none; }
+.itemposts .itemfoot a.itemrmore:hover { text-decoration:underline; }
+#itempager { clear:both; padding:10px 0; }
+#halaman,#totalposts { display:block; font:bold 12px Verdana,Arial,Sans-Serif; margin-bottom:3px; text-align:center; padding:0; }
+#halaman span,#halaman a { background-color:#222; display:inline; margin:0 1px; padding:3px 5px; text-indent:0; text-decoration:none; }
+#halaman a:hover { background-color:#444; }
+#halaman span.actual { background-color:black; }
+#halaman span.hidden { display:none; }
+.catatanku { line-height:22px;color:#222; min-height:38px;font:normal 12px/14px Arial,Sans-Serif; padding:10px 12px 12px 70px; margin:5px 0;border:1px solid #ddd; box-shadow:1px 1px 5px rgba(0,0,0,.8)}
+.catatanku { background:#f6b26b url('http://2.bp.blogspot.com/-hXGyW5iYA0E/VRUFPif1l0I/AAAAAAAAEMQ/JAjGV1BMUpY/s80/seocips-nime.png') no-repeat no-repeat; }
